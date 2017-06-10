@@ -1,4 +1,4 @@
-const red = '#702a2e'
+const red = '#14705c'
 export default {
     color: red,
     container: {

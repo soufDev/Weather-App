@@ -87,13 +87,13 @@ const style = StyleSheet.create({
         alignItems: 'center'
     },
     firstView: {
-        backgroundColor: '#e54b65'
+        backgroundColor: '#ff4841'
     },
     view: {
-        backgroundColor: '#394163',
+        backgroundColor: '#1eaa91',
         borderWidth: 0,
         borderBottomWidth: 1,
-        borderBottomColor: '#202340',
+        borderBottomColor: '#0b8958',
         paddingHorizontal: 20,
         paddingVertical: 10,
         justifyContent: 'space-between'
